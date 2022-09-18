@@ -1,0 +1,22 @@
+@import "../../variable.scss";
+
+.navbar__item {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    background-color: $primaryColor;
+    height: 3px;
+    width: 0%;
+    bottom: 0;
+    transition: all ease 0.4s;
+  }
+
+  &:hover {
+    &::after {
+      width: 100%;
+      transition: all ease 0.4s;
+    }
+  }
+}
