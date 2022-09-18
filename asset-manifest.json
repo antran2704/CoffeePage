@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b08adbb7.css",
+    "main.js": "/static/js/main.beb71587.js",
+    "static/media/coffee-beans.png": "/static/media/coffee-beans.92f7a68436c819b47748.png",
+    "static/media/cup_of_coffee.png": "/static/media/cup_of_coffee.b64dacd250ada34748e9.png",
+    "static/media/logo.png": "/static/media/logo.fedd828ea8ff3c4f8f95.png",
+    "index.html": "/index.html",
+    "main.b08adbb7.css.map": "/static/css/main.b08adbb7.css.map",
+    "main.beb71587.js.map": "/static/js/main.beb71587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08adbb7.css",
+    "static/js/main.beb71587.js"
+  ]
+}
